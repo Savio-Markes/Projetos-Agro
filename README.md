@@ -9,7 +9,7 @@ A proposta inicial é desenvolver uma aplicação web para auxiliar na organiza�
 ## Integrantes
 
 1. Fábio Barbosa Rodrigues
-2. NOME COMPLETO DO INTEGRANTE 2
+2. Kaique de Sousa Araujo
 3. NOME COMPLETO DO INTEGRANTE 3
 4. NOME COMPLETO DO INTEGRANTE 4
 
