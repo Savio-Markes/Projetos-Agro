@@ -10,7 +10,7 @@ A proposta inicial é desenvolver uma aplicação web para auxiliar na organiza�
 
 1. Fábio Barbosa Rodrigues
 2. Kaique de Sousa Araujo
-3. NOME COMPLETO DO INTEGRANTE 3
+3. Sávio Markes Rodrigues de Sousa
 4. NOME COMPLETO DO INTEGRANTE 4
 
 ## Stack tecnológico
